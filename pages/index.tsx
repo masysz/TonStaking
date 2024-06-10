@@ -34,6 +34,7 @@ export default function Index() {
       setShowAnimation(false);
     }, 1000);
   };
+
   const handleIncrement = (event: React.MouseEvent<HTMLDivElement>) => {
     // const { clientX, clientY } = event
     const { clientX, clientY } = event;

@@ -124,7 +124,7 @@ export default function Index() {
           alt="AvatarImg"
           className="w-10 h-10"
         ></img>
-        <div className=" text-sm font-medium text-white ml-3">@{username}</div>
+        <div className=" text-sm font-medium text-white ml-3">@{user}</div>
         <Button
           onClick={handleChooseExchange}
           variant="contained"

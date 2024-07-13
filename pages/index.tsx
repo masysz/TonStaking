@@ -206,7 +206,7 @@ export default function Index() {
           <div
             className="w-[90%] h-[90%] rounded-full bg-cover transition duration-300 group-active:scale-105"
             style={{
-              backgroundImage: "url(/images/hamster.png)",
+              backgroundImage: "url(/images/Photoroom-20240713_201910.png)",
               backgroundRepeat: "none",
             }}
           ></div>
